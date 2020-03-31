@@ -1,0 +1,71 @@
+.img-responsive{
+
+    height: 100%;
+    width: 100%;
+
+}
+
+.header{
+    font-size: 60px;
+    text-align: center;
+}
+
+.margin {
+    margin-left: 280px;
+    border-left: 0.5px solid gray;
+}
+
+.container1{
+    width: 75%;
+    margin: auto;
+    padding: auto;
+}
+
+.ht1{
+    height:40px;
+    width:40px;
+}
+
+.phone{
+    transform: rotate(95deg);
+    height:50px;
+    width: 35px;
+}
+
+.text-size-sm{
+    font-size: 13.5px;
+}
+
+.nav-link:hover{
+    background-color: red;
+}
+
+.carousel-content {
+    width:120px;
+}
+
+.border {
+    border: 2px solid black;
+}
+
+.carousel-caption-margin{
+    margin-left: 30%;
+}
+
+.card-1 {
+    text-align: center;
+    margin-left: 30%;
+}
+
+.shop-link{
+    text-decoration: none;
+    display: block;
+}
+
+.card-font{
+    font-size: 14px;
+}
+
+.card-font2{
+    font-size: 12px;
+}
